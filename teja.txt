@@ -1,1 +1,10 @@
-srikanth oka pilla bachha. vadini gu... lo tannalmncasbmncbsmnbadmnvbdmnvbmnsbnmi
+package main
+
+import "fmt"
+
+func main() {
+
+fmt.Println("hi ")
+
+}
+
